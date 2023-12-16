@@ -6,7 +6,7 @@ I'm Nyi Ye Zin, a self-learning web developer on a journey to explore the world 
 
 - 🌐 I'm passionate about web development and always eager to learn new technologies.
 - 💻 Currently diving into HTML, CSS, and JavaScript to build a strong foundation.
-- 🚀 Working on Microverse Learningboard project to apply my learning and create something cool.
+- 🚀 Working on Microverse Learning-Board project to apply my learning and create something cool.
 
 ## Tech Stack
 
